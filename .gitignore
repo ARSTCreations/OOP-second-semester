@@ -1,0 +1,4 @@
+# ignore out dir
+/out
+# ignore intellij .idea dir
+.idea/
